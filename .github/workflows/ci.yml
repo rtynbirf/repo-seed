@@ -1,0 +1,26 @@
+# Зерно: живой гейт с первого такта. Пин по SHA — учитель OpenSSF Scorecard.
+name: ci
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci
+  cancel-in-progress: false
+
+jobs:
+  tests:
+    name: tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout (пин по SHA)
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Тесты (храповик: тесты только добавляются)
+        run: python3 -m unittest discover -s tests -v
