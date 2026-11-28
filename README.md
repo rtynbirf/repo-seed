@@ -19,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 31 | 5 | 1 | 2026-11-28 | 0 |
+| 32 | 5 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# repo-seed
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/repo-seed"><img src="banner.png" width="100%" alt="repo-seed — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
 
 # repo-seed · зерно дома
 
