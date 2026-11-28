@@ -1,3 +1,17 @@
+<div align="center">
+
+<a href="https://github.com/rtynbirf/repo-seed"><img src="banner.png" width="100%" alt="repo-seed — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/repo-seed@main/repo-muse.svg" width="100%" alt="Муза repo-seed: мастерская КУЗНЯ ПОЛИМАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/repo-seed@main/forge-divider.svg" width="62%" alt="делитель мастерской КУЗНЯ ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
   <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы repo-seed в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
@@ -5,10 +19,12 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 30 | 5 | 46 | 2026-11-26 | 0 |
+| 31 | 5 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
 # repo-seed · зерно дома
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/repo-seed@main/.github/social-preview.png" alt="repo-seed" width="100%"></p>
 
 Зерно района (волна ×7, 2026-11-18; принцип №7 канона 27 repo-doctrine:
 «новорождённый рождается оснащённым»). Нажми **Use this template** —
@@ -40,3 +56,5 @@ gh api repos/rtynbirf/.github/dispatches -f event_type=repo-born
 
 1. Репо из зерна → 2. паспорт смысла в README → 3. диспетч рождения →
 4. первый коммит с пруфом «Поработал? Сделал? Убрал за собой».
+
+<!--ФОРЖ:ПОДВАЛ-->
